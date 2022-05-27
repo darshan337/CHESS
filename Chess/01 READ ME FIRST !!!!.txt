@@ -1,7 +1,7 @@
 CHESS GAME IN PYTHON
 
 
-**Developed By M. Nahin Khan**
+**Developed By K Darshan Raj Kumar**
 
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
@@ -10,7 +10,7 @@ CHESS GAME IN PYTHON
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+***** FOR MORE PROJECTS :- https://github.com/darshan337 *****
 
 
 
